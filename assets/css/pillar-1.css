@@ -6403,7 +6403,7 @@ button.bg-dark:focus {
   }
 }
 
-@media (min-width: 768px) {
+@media (min-width: 700px) {
   .flex-md-row {
     flex-direction: row !important;
   }
@@ -8552,11 +8552,11 @@ a.theme-btn-on-bg:hover, a.theme-btn-on-bg:focus, a.theme-btn-on-bg:active, .the
 .resume-header {
   background: #434E5E;
   color: rgba(255, 255, 255, 0.9);
-  height: 220px;
+  height: 225px;
 }
 
 .resume-header .picture {
-  width: 220px;
+  width: 255px;
 }
 
 .resume-header .name {
